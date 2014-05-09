@@ -20,6 +20,6 @@ W niedzielę:
 1. Porozmiawiać o Github Desktop.
 2. Powtórzyć notację Markdown.
   - Markdown online
-3. Tabelki
+3. Tabelki :bar_chart:
 4. [pszczoly](http://jsbin.com/gidaz/1/) :honeybee:
 
