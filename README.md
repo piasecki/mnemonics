@@ -10,9 +10,8 @@ printf("hello world\n");
 return 0;
 }
 ```
-Praktycznie każdy język prgramowania ma taki program [Hello World porgram][1]
-[1]:http://pl.wikipedia.org/wiki/Hello_world njfjfjjjm kkkkkflkv kkklokol;kvkddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-ddjjjjjjjjjjjjjjjjjjjjjjskl;j
+ Praktycznie każdy język prgramowania ma taki program [Hello World porgram][1]
+[1]:http://pl.wikipedia.org/wiki/Hello_world 
 
 ## TODO
 
