@@ -22,4 +22,5 @@ W niedzielę:
   - Markdown online
 3. Tabelki :bar_chart:
 4. [pszczoly](http://jsbin.com/gidaz/1/) :honeybee:
-
+5. 
+ [mnemotechnics](https://github.com/monduls/technologie/blob/master/podstronka.md) :bulb:
