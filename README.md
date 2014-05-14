@@ -17,10 +17,11 @@ return 0;
 
 W niedzielę:
 
-1. Porozmiawiać o Github Desktop.
+1. ~~Porozmiawiać o Github Desktop.~~
 2. Powtórzyć notację Markdown.
   - Markdown online
 3. Tabelki :bar_chart:
 4. [pszczoly](http://jsbin.com/gidaz/1/) :honeybee:
-5. 
+
+
  [mnemotechnics](https://github.com/monduls/technologie/blob/master/podstronka.md) :bulb:
