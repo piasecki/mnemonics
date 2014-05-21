@@ -1,0 +1,5 @@
+### ACRONYM
+Another peg-type mnemonic that I would recommend for the classroom is the acronym — a word formed from the first letters of words or phrases to be remembered. For example, in order to memorise another rule for the use of the definite article ("the" is used before the names of countries containing the word kingdom, republic, state or union), our pupils have to remember one simple acronym: KURS - kingdom, union, republic, state (Kubiak, 2003). When the first letters of the words to be remembered do not make up a memorable acronym, we can create a sentence whose words begin with those letters. For example, if we want our students to remember the order of adjectives (opinion, size, age, shape, colour, origin, material, purpose), let them memorise just one sentence whose elements will help them recall the required categories: Oscar screamed at the sight of crocodile offspring moving past. This method is also commonly used for spelling:
+George eats old grey rats and paints houses yellow - GEOGRAPHY
+A rat in the house might eat the ice cream - ARITHMETIC
+(Hagris, 2003)
