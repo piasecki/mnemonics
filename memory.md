@@ -1,5 +1,7 @@
 =======
+
 <h3 align="center"> MEMORY
+
 =======
 
 <h5 align = "justify"> Encoding new information in Long-Term Memory is a time-consuming process. The strategy of rehearsal so commonly used by pupils for this purpose is actually very ineffective as it does not help to organise or elaborate on new material. This is why it is worth introducing mnemonics as teaching / learning aids in the classroom.
