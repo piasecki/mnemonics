@@ -14,7 +14,7 @@ Here are some examples of mnemonics:
  <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
 
 
-<h6> :small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md):small_red_triangle_down: [:green_book:](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
+<h6> :small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md):small_red_triangle_down: [:link:](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
 
 
 <h6> :small_red_triangle_down:  [keyword method](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md):small_red_triangle_down: [:key:](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md)
