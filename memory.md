@@ -2,8 +2,7 @@
 
 <h3 align="center"> MEMORY
 ***
-<h3 align="center">![brain](http://4.bp.blogspot.com/-rqk2znoDAO8/UiVobBNIZ9I/AAAAAAAAB88/c2ajFAalQjg/s1600/Brain-Knowledge.jpg)
-
+<h3 align="center">![memo](http://memorise.org/wp-content/uploads/2014/05/1369847707_4085_memory.jpg)
 <h5 align = "justify"> Encoding new information in Long-Term Memory is a time-consuming process. The strategy of rehearsal so commonly used by pupils for this purpose is actually very ineffective as it does not help to organise or elaborate on new material. This is why it is worth introducing mnemonics as teaching / learning aids in the classroom.
 
 
