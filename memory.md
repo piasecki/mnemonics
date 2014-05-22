@@ -11,12 +11,13 @@
 *Mnemonics* are techniques for improving our memory and helping us remember the information which is otherwise difficult to recall. They work because they make use of imagination, association and location, and therefore enable us to process new information in such a way that it is easily available for later retrieval.
 Here are some examples of mnemonics:
 
-:small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
+<h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
 
-:small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
+<h6> :small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
 
-:small_red_triangle_down:  [keyword method](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md) 
+<h6> :small_red_triangle_down:  [keyword method](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md) 
 
-:small_red_triangle_down:  [loci method](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md)
+<h6> :small_red_triangle_down:  [loci method](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md)
+
 
 ***
