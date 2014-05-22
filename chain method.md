@@ -9,8 +9,6 @@ Whenever I need to know how many days a given month has, one can recall the foll
 
 Rhyming mnemonics stick in our memories really well and all students will find them very useful when learning the rules for:
 
--  **spelling** - *I before E except after C* (belIEve, pIEce BUT recEIve),
-- **pronunciation** — *When two vowels go walking the first does the talking* (Oat, Eat),
-- **articles** — *No matter if you go by bus, by car, by plane or by train, you will never catch me, your effort is vain* (the zero article).
+
 
 ***
