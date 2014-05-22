@@ -1,7 +1,8 @@
-### ACRONYM
+<h3 align="center"> ACRONYM
+
 ***
 
-**Acronym** — a word formed from the first letters of words or phrases to be remembered.
+Acronym is a word formed from the first letters of words or phrases to be remembered.
 
 For example, in order to memorise rule for the use of the definite article (**"the"** is used before the names of countries containing the word kingdom, republic, state or union), our pupils have to remember one simple acronym: **KURS** - Kingdom, Union, Republic, State. When the first letters of the words to be remembered do not make up a memorable acronym.
    
