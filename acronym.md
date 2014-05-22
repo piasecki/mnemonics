@@ -7,7 +7,7 @@ We can also create a sentence whose words begin with those letters. For example,
 
 This method is also commonly used for spelling:
 
-George Eats Old Grey Rats And Paints Houses Yellow -**G E O G R A P H Y**
+- George Eats Old Grey Rats And Paints Houses Yellow -**G E O G R A P H Y**
 
-A Rat In The House Might Eat The Ice Cream - **A R I T H M E T I C**
+- A Rat In The House Might Eat The Ice Cream - **A R I T H M E T I C**
 
