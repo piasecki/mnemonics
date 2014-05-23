@@ -9,7 +9,7 @@ It is also possible to combine the items which we need to learn into a rhyme ins
 Whenever I need to know how many days a given month has, one can recall the following rhyme: *Thirty days has September, April, June and November*.
 
 Rhyming mnemonics stick in our memories really well and all students will find them very useful when learning the rules for:
-
+ 
 <h3 align="center"> ![chain](http://mlyniec.gda.pl/~simon/Repozyt/chain.png)
 
 ***
