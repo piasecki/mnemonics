@@ -12,7 +12,7 @@ Similarly, a Polish learner of Spanish could associate the word carta (list) wit
 
 It is also possible to use a modified version of the keyword method, called the **literal-keyword technique**, for teaching / learning English phrasal verbs. The technique differs from the original keyword method in that it does not make use of acoustic links with the native language but requires the learner to find keywords in English, which is actually easier. So if one would like to learn the phrasal verb *give in to somebody* (surrender), one has to imagine the verb itself as an action performed by someone and change the prepositions into keywords (i.e. words that sound similar): *a tin for in and two for to*. The phrasal verb can be then exemplified by the sentence: *Finally, we had to give in to the enemy.*, and illustrated by soldiers giving two tins to the representatives of the winning army. 
 
-If a verb cannot be illustrated as an action, it must be ascribed a keyword as well. For example, the phrasal verb *get somebody down* (depress) can be presented in the sentence: *He always wins, which is starting to get me down.*, and illustrated with an image of a depressed man who has again lost a game of tennis to a clown:
+If a verb cannot be illustrated as an action, it must be ascribed a keyword as well. For example, the phrasal verb *get somebody down* (depress) can be presented in the sentence: *He always wins, which is starting to get me down.*, and illustrated with an image of a depressedclown:![clown](http://mlyniec.gda.pl/~simon/Repozyt/clown_small.png) boy who has again lost a game of tennis to a 
 In this image the keyword for the verb *get* is a *net* (well visible in the picture) and the keyword for *down* is a *clown*.
-![clown](http://mlyniec.gda.pl/~simon/Repozyt/clown_small.png)
+
 ***
