@@ -6,8 +6,8 @@
 Acronym is a word formed from the first letters of words or phrases to be remembered.
 
 For example, in order to memorise rule for the use of the definite article (**"the"** is used before the names of countries containing the word kingdom, republic, state or union), our pupils have to remember one simple acronym: **KURS** - Kingdom, Union, Republic, State. When the first letters of the words to be remembered do not make up a memorable acronym.
-   
-
+ ![onb](http://mlyniec.gda.pl/~simon/Repozyt/ACRONYM.png)  
+ 
 We can also create a sentence whose words begin with those letters. For example, if we want our students to remember the order of adjectives (Opinion, Size, Age, Shape, Colour, Origin, Material, Purpose), let them memorise just one sentence whose elements will help them recall the required categories: Oscar Screamed At the Sight of Crocodile Offspring Moving Past. 
 
 This method is also commonly used for spelling:
