@@ -10,6 +10,6 @@ One of the best known mnemonics is the **loci method** (in Latin *loci* is the p
 <h3 align="center">![loci](http://uv-blog.uio.no/wpmu/seyran/files/2011/12/200807151047.jpg)
 
 
-The loci method can also be used every day for remembering e.g. shopping lists. All of us can easily recall the image of our house, apartment or favourite room with its furniture and other objects. To remember a shopping list we have to associate the items to be bought with the items from our living room, for example. You could imagine a loaf of bread snoring in the armchair, chicken and ham reading a newspaper on the sofa, two cartons of milk watching TV on the carpet, a jar of baby food with headphones on listening to music, etc. When you take an imaginary walk around your living room, you will easily recall the items from your shopping list.
+The loci method can also be used every day for remembering e.g. shopping lists. All of us can easily recall the image of our house, apartment or favourite room with its furniture and other objects. To remember a shopping list we have to associate the items to be bought with the items from our living room. You could imagine a loaf of bread snoring in the armchair, chicken and ham reading a newspaper on the sofa, two cartons of milk watching TV on the carpet, a jar of baby food with headphones on listening to music, etc. When you take an imaginary walk around your living room, you will easily recall the items from your shopping list.
 
 ***
