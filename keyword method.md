@@ -8,8 +8,8 @@ In order to use this method, one has to associate a new foreign word with a simi
 For example, a Polish learner of English could associate the word *shop* with *szop* (they sound similar) and imagine the animal selling shoes.  
 <h5 align="center"> ![szop](http://mlyniec.gda.pl/~simon/Repozyt/racoon_small.png)
 
-The more absurd or the funnier the image, the more memorable it is. The word szop becomes the keyword which helps the learner recall the meaning of shop. 
-Similarly, a Polish learner of Spanish could associate the word carta (list) with karton and imagine a postman carrying a huge letter in a carton box.
+The more absurd or the funnier the image, the more memorable it is. The word *szop* becomes the keyword which helps the learner recall the meaning of *shop*. 
+Similarly, a Polish learner of Spanish could associate the word *carta* (list) with *karton* and imagine a postman carrying a huge letter in a carton box.
 
 It is also possible to use a modified version of the keyword method, called the **literal-keyword technique**, for teaching / learning English phrasal verbs. The technique differs from the original keyword method in that it does not make use of acoustic links with the native language but requires the learner to find keywords in English, which is actually easier. So if you would like to learn the phrasal verb *give in to somebody* (surrender), you have to imagine the verb itself as an action performed by someone and change the prepositions into keywords (i.e. words that sound similar): *a tin for in and two for to*. The phrasal verb can be then exemplified by the sentence: *Finally, we had to give in to the enemy*, and illustrated by soldiers giving two tins to the representatives of the winning army. 
 
