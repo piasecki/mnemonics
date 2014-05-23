@@ -1,27 +1,25 @@
-![D. m. Ritchie](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
-## Pierwsze programy w C
+***
 
-Zwyczajowo zaczynamy od programu
-*Hello World*
-```c
-#include <stdio.h>
-int main() {
-printf("hello world\n");
-return 0;
-}
-```
- Praktycznie każdy język prgramowania ma taki program [Hello World porgram][1]
-[1]:http://pl.wikipedia.org/wiki/Hello_world 
-
-## TODO
-
-W niedzielę:
-
-1. ~~Porozmiawiać o Github Desktop.~~
-2. Powtórzyć notację Markdown.
-  - Markdown online
-3. Tabelki :bar_chart:
-4. [pszczoly](http://jsbin.com/gidaz/1/) :honeybee:
+<h3 align="center"> MEMORY
+***
+<h3 align="center">![memo](http://memorise.org/wp-content/uploads/2014/05/1369847707_4085_memory.jpg)
+<h5 align = "justify"> Encoding new information in Long-Term Memory is a time-consuming process. The strategy of rehearsal so commonly used by pupils for this purpose is actually very ineffective as it does not help to organise or elaborate on new material. This is why it is worth introducing mnemonics as teaching / learning aids in the classroom.
 
 
- [mnemotechnics](https://github.com/monduls/technologie/blob/master/podstronka.md) :bulb:
+*Mnemonics* are techniques for improving our memory and helping us remember the information which is otherwise difficult to recall. They work because they make use of imagination, association and location, and therefore enable us to process new information in such a way that it is easily available for later retrieval.
+Here are some examples of mnemonics:
+
+ <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
+
+
+<h6> :small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md):small_red_triangle_down: [:link:](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
+
+
+<h6> :small_red_triangle_down:  [keyword method](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md):small_red_triangle_down: [:key:](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md)
+
+
+<h6> :small_red_triangle_down:  [loci method](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md):small_red_triangle_down: [:globe_with_meridians:](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md)
+
+
+***
+
