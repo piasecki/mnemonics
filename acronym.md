@@ -1,7 +1,7 @@
 ***
 <h3 align="center"> ACRONYM
 
-***
+*** 
 
 Acronym is a word formed from the first letters of words or phrases to be remembered.
 
